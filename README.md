@@ -1,6 +1,6 @@
 ### Description
 Данный проект является результатом тестового задания на позицию верстальщик лендингов от компании Yandex. Это лендинг приглашение на шахматный турнир.
-Ссылка на deploy: <a href="https://sergey-karpov.github.io/ya-test/" target="_blank">Открыть проект</a>
+Deploy: [открыть проект](https://sergey-karpov.github.io/ya-test/){:target="_blank"}
 
 Детали:
 
